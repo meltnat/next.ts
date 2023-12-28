@@ -13,7 +13,7 @@ export default function Page() {
   return (
     <main>
       <Link href="https://x.com/meltnat">
-        <Image src={basePath+"/public/x-logo/logo-black.png"} alt="X logo" layout="fill" />
+        <Image src={basePath+"/x-logo/logo-black.png"} alt="X logo" layout="fill" />
       </Link>
     </main>
   )
